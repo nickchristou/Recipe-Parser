@@ -1,0 +1,58 @@
+<Recipe id="21">
+    <Metadata>
+        <Created>2014-10-13</Created>
+        <Author>Charlie Montoya</Author>
+        <Title>Sponge Cake</Title>
+    </Metadata>
+    <Content>
+        <Lead>Choose your favourite filling for this easy sponge cake – we've opted for lemon curd and whipped cream, but you could have jam. Perfect for afternoon tea!</Lead>
+        <Ingredients>
+            <Ingredient>
+                <Amount>225.0</Amount>
+                <Unit>grams</Unit>
+                <Item>unsalted butter</Item>
+            </Ingredient>
+            <Ingredient>
+                <Amount>225.0</Amount>
+                <Unit>grams</Unit>
+                <Item>golden caster sugar</Item>
+            </Ingredient>
+            <Ingredient>
+                <Amount>4.0</Amount>
+                <Item>large eggs</Item>
+            </Ingredient>
+            <Ingredient>
+                <Amount>0.5</Amount>
+                <Item>lemon zested</Item>
+            </Ingredient>
+            <Ingredient>
+                <Amount>1.0</Amount>
+                <Unit>teaspoons</Unit>
+                <Item>vanilla extract</Item>
+            </Ingredient>
+            <Ingredient>
+                <Amount>225.0</Amount>
+                <Unit>grams</Unit>
+                <Item>self-raising flour</Item>
+            </Ingredient>
+            <Ingredient>
+                <Amount>20.0</Amount>
+                <Unit>millilitres</Unit>
+                <Item>milk</Item>
+            </Ingredient>
+            <Ingredient>
+                <Item>your choices of filling</Item>
+            </Ingredient>
+            <Ingredient>
+                <Item>icing sugar for dusting</Item>
+            </Ingredient>
+        </Ingredients>
+        <Method>
+            <Step>Preheat the oven to 180 degrees C. Butter and line base of two 20cm cake tins</Step>
+            <Step>Using an electric whisk, beat together butter and sugar until pale and fluffy. Crack in eggs one at a time and whisk well.</Step>
+            <Step>Add lemon zest, vanilla, flour, milk and a pinch of salt. Divide between the two tins.</Step>
+            <Step>Bake for 25-30 minutes.</Step>
+            <Step>Leave to cool and then sandwich together with your choice of filling and top with icing sugar.</Step>
+        </Method>
+    </Content>
+</Recipe>

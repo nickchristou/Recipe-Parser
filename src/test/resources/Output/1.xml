@@ -1,0 +1,21 @@
+<Recipe id="1">
+    <Metadata>
+        <Created>2014-04-24+01:00</Created>
+        <Author>TEST AUTHOR</Author>
+        <Title>TEST</Title>
+    </Metadata>
+    <Content>
+        <Lead></Lead>
+        <Ingredients>
+            <Ingredient>
+                <Amount>5.0</Amount>
+                <Unit>each</Unit>
+                <Item>Apple</Item>
+            </Ingredient>
+        </Ingredients>
+        <Method>
+            <Step>This is the first step in test</Step>
+            <Step>This is the second step in test</Step>
+        </Method>
+    </Content>
+</Recipe>

@@ -1,0 +1,13 @@
+{id}. {Title} by {Author} [{Date: YYY-MM-DD}]
+
+{Lead}
+...
+
+Ingredients
+{Amount}{Unit} {Item}
+...
+
+Method
+{Step}
+...
+

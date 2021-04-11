@@ -1,0 +1,47 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Recipe">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Metadata">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:date" name="Created"/>
+              <xs:element type="xs:string" name="Author"/>
+              <xs:element type="xs:string" name="Title"/>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="Content">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="Lead"/>
+              <xs:element name="Ingredients">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="Ingredient" maxOccurs="unbounded" minOccurs="0">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:double" name="Amount"/>
+                          <xs:element type="xs:string" name="Unit" minOccurs="0"/>
+                          <xs:element type="xs:string" name="Item"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="Method">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="Step" maxOccurs="unbounded" minOccurs="0"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute type="xs:int" name="id"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

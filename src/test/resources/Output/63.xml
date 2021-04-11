@@ -1,0 +1,79 @@
+<Recipe id="63">
+    <Metadata>
+        <Created>2005-03-02</Created>
+        <Author>R.T.Jones</Author>
+        <Title>Carrot Cake</Title>
+    </Metadata>
+    <Content>
+        <Lead>Delight friends with an afternoon tea that includes this easy carrot cake. You can bake the cake, freeze it and just drizzle over the icing on the day.</Lead>
+        <Ingredients>
+            <Ingredient>
+                <Amount>175.0</Amount>
+                <Unit>grams</Unit>
+                <Item>light muscovado sugar</Item>
+            </Ingredient>
+            <Ingredient>
+                <Amount>175.0</Amount>
+                <Unit>millilitres</Unit>
+                <Item>sunflower oil</Item>
+            </Ingredient>
+            <Ingredient>
+                <Amount>3.0</Amount>
+                <Item>large eggs, lightly beaten</Item>
+            </Ingredient>
+            <Ingredient>
+                <Amount>140.0</Amount>
+                <Unit>grams</Unit>
+                <Item>grated carrot (about 3 medium)</Item>
+            </Ingredient>
+            <Ingredient>
+                <Amount>100.0</Amount>
+                <Unit>grams</Unit>
+                <Item>raisins</Item>
+            </Ingredient>
+            <Ingredient>
+                <Amount>1.0</Amount>
+                <Item>large orange, zest of</Item>
+            </Ingredient>
+            <Ingredient>
+                <Amount>175.0</Amount>
+                <Unit>grams</Unit>
+                <Item>self-raising flour</Item>
+            </Ingredient>
+            <Ingredient>
+                <Amount>1.0</Amount>
+                <Unit>teaspoons</Unit>
+                <Item>bicarbonate of soda</Item>
+            </Ingredient>
+            <Ingredient>
+                <Amount>1.0</Amount>
+                <Unit>teaspoons</Unit>
+                <Item>ground cinnamon</Item>
+            </Ingredient>
+            <Ingredient>
+                <Amount>0.5</Amount>
+                <Unit>teaspoons</Unit>
+                <Item>grated nutmeg (freshly grated will give you the best flavour)</Item>
+            </Ingredient>
+            <Ingredient>
+                <Amount>175.0</Amount>
+                <Unit>grams</Unit>
+                <Item>icing sugar</Item>
+            </Ingredient>
+            <Ingredient>
+                <Amount>1.5</Amount>
+                <Unit>tablespoons</Unit>
+                <Item>orange juice</Item>
+            </Ingredient>
+        </Ingredients>
+        <Method>
+            <Step>Heat the oven to 180C/fan160C/gas 4. Oil and line the base and sides of an 18cm square cake tin with baking parchment.</Step>
+            <Step>Tip 175g light muscovado sugar, 175ml sunflower oil and 3 large beaten eggs into a big mixing bowl. Lightly mix with a wooden spoon. Stir in 140g grated carrots, 100g raisins and grated zest of 1 large orange.</Step>
+            <Step>Sift 175g self-raising flour, 1 tsp bicarbonate of soda, 1 tsp ground cinnamon and ½ tsp grated nutmeg into the bowl. Mix everything together, the mixture will be soft and almost runny.</Step>
+            <Step>Pour the mixture into the prepared tin and bake for 40-45 mins or until it feels firm and springy when you press it in the centre.</Step>
+            <Step>Cool in the tin for 5 mins, then turn it out, peel off the paper and cool on a wire rack. (You can freeze the cake at this point if you want to serve it at a later date.)</Step>
+            <Step>Beat 175g icing sugar and 1½ - 2 tbsp orange juice in a small bowl until smooth – you want the icing about as runny as single cream.</Step>
+            <Step>Put the cake on a serving plate and boldly drizzle the icing back and forth in diagonal lines over the top, letting it drip down the sides.</Step>
+        </Method>
+    </Content>
+</Recipe>
