@@ -21,7 +21,7 @@ How to use:
 3. Enter input directory (eg. on my system this was "C:\RecipeTarget\Input").
 4. Enter output directory (eg. on my system this was "C:\RecipeTarget\Output").
 5. Application will read from input directory, only reading files with ".txt" extension and ignoring sub-directories.
-6. Output will write to the directory with following filename format: {ID}{Title}.xml, if recipe already exists this will overwrite existing files.
+6. Output will write to the directory with following filename format: {ID}.xml, if recipe already exists this will overwrite existing files.
 
 FileSpec:
 
